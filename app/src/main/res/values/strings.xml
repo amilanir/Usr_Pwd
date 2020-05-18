@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Usr_Pwd</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_phone">Enter Phone</string>
+    <string name="save">save</string>
+    <string name="enter_name">Enter Name</string>
+</resources>
